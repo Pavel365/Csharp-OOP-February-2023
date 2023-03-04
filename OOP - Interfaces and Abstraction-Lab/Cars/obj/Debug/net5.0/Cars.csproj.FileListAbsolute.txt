@@ -1,0 +1,16 @@
+C:\Users\user\Documents\Програмиране\C# OOP\OOP - Interfaces and Abstraction-Lab\Cars\bin\Debug\net5.0\Cars.exe
+C:\Users\user\Documents\Програмиране\C# OOP\OOP - Interfaces and Abstraction-Lab\Cars\bin\Debug\net5.0\Cars.deps.json
+C:\Users\user\Documents\Програмиране\C# OOP\OOP - Interfaces and Abstraction-Lab\Cars\bin\Debug\net5.0\Cars.runtimeconfig.json
+C:\Users\user\Documents\Програмиране\C# OOP\OOP - Interfaces and Abstraction-Lab\Cars\bin\Debug\net5.0\Cars.runtimeconfig.dev.json
+C:\Users\user\Documents\Програмиране\C# OOP\OOP - Interfaces and Abstraction-Lab\Cars\bin\Debug\net5.0\Cars.dll
+C:\Users\user\Documents\Програмиране\C# OOP\OOP - Interfaces and Abstraction-Lab\Cars\bin\Debug\net5.0\Cars.pdb
+C:\Users\user\Documents\Програмиране\C# OOP\OOP - Interfaces and Abstraction-Lab\Cars\obj\Debug\net5.0\Cars.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Програмиране\C# OOP\OOP - Interfaces and Abstraction-Lab\Cars\obj\Debug\net5.0\Cars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Програмиране\C# OOP\OOP - Interfaces and Abstraction-Lab\Cars\obj\Debug\net5.0\Cars.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Програмиране\C# OOP\OOP - Interfaces and Abstraction-Lab\Cars\obj\Debug\net5.0\Cars.AssemblyInfo.cs
+C:\Users\user\Documents\Програмиране\C# OOP\OOP - Interfaces and Abstraction-Lab\Cars\obj\Debug\net5.0\Cars.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Програмиране\C# OOP\OOP - Interfaces and Abstraction-Lab\Cars\obj\Debug\net5.0\Cars.dll
+C:\Users\user\Documents\Програмиране\C# OOP\OOP - Interfaces and Abstraction-Lab\Cars\obj\Debug\net5.0\refint\Cars.dll
+C:\Users\user\Documents\Програмиране\C# OOP\OOP - Interfaces and Abstraction-Lab\Cars\obj\Debug\net5.0\Cars.pdb
+C:\Users\user\Documents\Програмиране\C# OOP\OOP - Interfaces and Abstraction-Lab\Cars\obj\Debug\net5.0\Cars.genruntimeconfig.cache
+C:\Users\user\Documents\Програмиране\C# OOP\OOP - Interfaces and Abstraction-Lab\Cars\obj\Debug\net5.0\ref\Cars.dll
