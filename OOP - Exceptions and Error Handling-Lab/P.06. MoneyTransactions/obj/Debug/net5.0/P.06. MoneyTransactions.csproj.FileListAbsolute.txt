@@ -1,0 +1,16 @@
+C:\Users\user\Documents\Програмиране\C# OOP\OOP - Exceptions and Error Handling-Lab\P.06. MoneyTransactions\bin\Debug\net5.0\P.06. MoneyTransactions.exe
+C:\Users\user\Documents\Програмиране\C# OOP\OOP - Exceptions and Error Handling-Lab\P.06. MoneyTransactions\bin\Debug\net5.0\P.06. MoneyTransactions.deps.json
+C:\Users\user\Documents\Програмиране\C# OOP\OOP - Exceptions and Error Handling-Lab\P.06. MoneyTransactions\bin\Debug\net5.0\P.06. MoneyTransactions.runtimeconfig.json
+C:\Users\user\Documents\Програмиране\C# OOP\OOP - Exceptions and Error Handling-Lab\P.06. MoneyTransactions\bin\Debug\net5.0\P.06. MoneyTransactions.runtimeconfig.dev.json
+C:\Users\user\Documents\Програмиране\C# OOP\OOP - Exceptions and Error Handling-Lab\P.06. MoneyTransactions\bin\Debug\net5.0\P.06. MoneyTransactions.dll
+C:\Users\user\Documents\Програмиране\C# OOP\OOP - Exceptions and Error Handling-Lab\P.06. MoneyTransactions\bin\Debug\net5.0\P.06. MoneyTransactions.pdb
+C:\Users\user\Documents\Програмиране\C# OOP\OOP - Exceptions and Error Handling-Lab\P.06. MoneyTransactions\obj\Debug\net5.0\P.06. MoneyTransactions.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Програмиране\C# OOP\OOP - Exceptions and Error Handling-Lab\P.06. MoneyTransactions\obj\Debug\net5.0\P.06. MoneyTransactions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Програмиране\C# OOP\OOP - Exceptions and Error Handling-Lab\P.06. MoneyTransactions\obj\Debug\net5.0\P.06. MoneyTransactions.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Програмиране\C# OOP\OOP - Exceptions and Error Handling-Lab\P.06. MoneyTransactions\obj\Debug\net5.0\P.06. MoneyTransactions.AssemblyInfo.cs
+C:\Users\user\Documents\Програмиране\C# OOP\OOP - Exceptions and Error Handling-Lab\P.06. MoneyTransactions\obj\Debug\net5.0\P.06. MoneyTransactions.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Програмиране\C# OOP\OOP - Exceptions and Error Handling-Lab\P.06. MoneyTransactions\obj\Debug\net5.0\P.06. MoneyTransactions.dll
+C:\Users\user\Documents\Програмиране\C# OOP\OOP - Exceptions and Error Handling-Lab\P.06. MoneyTransactions\obj\Debug\net5.0\refint\P.06. MoneyTransactions.dll
+C:\Users\user\Documents\Програмиране\C# OOP\OOP - Exceptions and Error Handling-Lab\P.06. MoneyTransactions\obj\Debug\net5.0\P.06. MoneyTransactions.pdb
+C:\Users\user\Documents\Програмиране\C# OOP\OOP - Exceptions and Error Handling-Lab\P.06. MoneyTransactions\obj\Debug\net5.0\P.06. MoneyTransactions.genruntimeconfig.cache
+C:\Users\user\Documents\Програмиране\C# OOP\OOP - Exceptions and Error Handling-Lab\P.06. MoneyTransactions\obj\Debug\net5.0\ref\P.06. MoneyTransactions.dll

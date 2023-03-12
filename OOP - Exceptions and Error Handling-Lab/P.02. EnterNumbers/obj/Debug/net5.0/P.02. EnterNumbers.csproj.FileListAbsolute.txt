@@ -1,0 +1,16 @@
+C:\Users\user\Documents\Програмиране\C# OOP\OOP - Exceptions and Error Handling-Lab\P.02. EnterNumbers\bin\Debug\net5.0\P.02. EnterNumbers.exe
+C:\Users\user\Documents\Програмиране\C# OOP\OOP - Exceptions and Error Handling-Lab\P.02. EnterNumbers\bin\Debug\net5.0\P.02. EnterNumbers.deps.json
+C:\Users\user\Documents\Програмиране\C# OOP\OOP - Exceptions and Error Handling-Lab\P.02. EnterNumbers\bin\Debug\net5.0\P.02. EnterNumbers.runtimeconfig.json
+C:\Users\user\Documents\Програмиране\C# OOP\OOP - Exceptions and Error Handling-Lab\P.02. EnterNumbers\bin\Debug\net5.0\P.02. EnterNumbers.runtimeconfig.dev.json
+C:\Users\user\Documents\Програмиране\C# OOP\OOP - Exceptions and Error Handling-Lab\P.02. EnterNumbers\bin\Debug\net5.0\P.02. EnterNumbers.dll
+C:\Users\user\Documents\Програмиране\C# OOP\OOP - Exceptions and Error Handling-Lab\P.02. EnterNumbers\bin\Debug\net5.0\P.02. EnterNumbers.pdb
+C:\Users\user\Documents\Програмиране\C# OOP\OOP - Exceptions and Error Handling-Lab\P.02. EnterNumbers\obj\Debug\net5.0\P.02. EnterNumbers.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Програмиране\C# OOP\OOP - Exceptions and Error Handling-Lab\P.02. EnterNumbers\obj\Debug\net5.0\P.02. EnterNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Програмиране\C# OOP\OOP - Exceptions and Error Handling-Lab\P.02. EnterNumbers\obj\Debug\net5.0\P.02. EnterNumbers.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Програмиране\C# OOP\OOP - Exceptions and Error Handling-Lab\P.02. EnterNumbers\obj\Debug\net5.0\P.02. EnterNumbers.AssemblyInfo.cs
+C:\Users\user\Documents\Програмиране\C# OOP\OOP - Exceptions and Error Handling-Lab\P.02. EnterNumbers\obj\Debug\net5.0\P.02. EnterNumbers.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Програмиране\C# OOP\OOP - Exceptions and Error Handling-Lab\P.02. EnterNumbers\obj\Debug\net5.0\P.02. EnterNumbers.dll
+C:\Users\user\Documents\Програмиране\C# OOP\OOP - Exceptions and Error Handling-Lab\P.02. EnterNumbers\obj\Debug\net5.0\refint\P.02. EnterNumbers.dll
+C:\Users\user\Documents\Програмиране\C# OOP\OOP - Exceptions and Error Handling-Lab\P.02. EnterNumbers\obj\Debug\net5.0\P.02. EnterNumbers.pdb
+C:\Users\user\Documents\Програмиране\C# OOP\OOP - Exceptions and Error Handling-Lab\P.02. EnterNumbers\obj\Debug\net5.0\P.02. EnterNumbers.genruntimeconfig.cache
+C:\Users\user\Documents\Програмиране\C# OOP\OOP - Exceptions and Error Handling-Lab\P.02. EnterNumbers\obj\Debug\net5.0\ref\P.02. EnterNumbers.dll

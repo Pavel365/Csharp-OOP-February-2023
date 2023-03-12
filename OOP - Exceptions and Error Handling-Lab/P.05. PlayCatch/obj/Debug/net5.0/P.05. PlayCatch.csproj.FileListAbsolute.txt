@@ -1,0 +1,16 @@
+C:\Users\user\Documents\Програмиране\C# OOP\OOP - Exceptions and Error Handling-Lab\P.05. PlayCatch\bin\Debug\net5.0\P.05. PlayCatch.exe
+C:\Users\user\Documents\Програмиране\C# OOP\OOP - Exceptions and Error Handling-Lab\P.05. PlayCatch\bin\Debug\net5.0\P.05. PlayCatch.deps.json
+C:\Users\user\Documents\Програмиране\C# OOP\OOP - Exceptions and Error Handling-Lab\P.05. PlayCatch\bin\Debug\net5.0\P.05. PlayCatch.runtimeconfig.json
+C:\Users\user\Documents\Програмиране\C# OOP\OOP - Exceptions and Error Handling-Lab\P.05. PlayCatch\bin\Debug\net5.0\P.05. PlayCatch.runtimeconfig.dev.json
+C:\Users\user\Documents\Програмиране\C# OOP\OOP - Exceptions and Error Handling-Lab\P.05. PlayCatch\bin\Debug\net5.0\P.05. PlayCatch.dll
+C:\Users\user\Documents\Програмиране\C# OOP\OOP - Exceptions and Error Handling-Lab\P.05. PlayCatch\bin\Debug\net5.0\P.05. PlayCatch.pdb
+C:\Users\user\Documents\Програмиране\C# OOP\OOP - Exceptions and Error Handling-Lab\P.05. PlayCatch\obj\Debug\net5.0\P.05. PlayCatch.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Програмиране\C# OOP\OOP - Exceptions and Error Handling-Lab\P.05. PlayCatch\obj\Debug\net5.0\P.05. PlayCatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Програмиране\C# OOP\OOP - Exceptions and Error Handling-Lab\P.05. PlayCatch\obj\Debug\net5.0\P.05. PlayCatch.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Програмиране\C# OOP\OOP - Exceptions and Error Handling-Lab\P.05. PlayCatch\obj\Debug\net5.0\P.05. PlayCatch.AssemblyInfo.cs
+C:\Users\user\Documents\Програмиране\C# OOP\OOP - Exceptions and Error Handling-Lab\P.05. PlayCatch\obj\Debug\net5.0\P.05. PlayCatch.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Програмиране\C# OOP\OOP - Exceptions and Error Handling-Lab\P.05. PlayCatch\obj\Debug\net5.0\P.05. PlayCatch.dll
+C:\Users\user\Documents\Програмиране\C# OOP\OOP - Exceptions and Error Handling-Lab\P.05. PlayCatch\obj\Debug\net5.0\refint\P.05. PlayCatch.dll
+C:\Users\user\Documents\Програмиране\C# OOP\OOP - Exceptions and Error Handling-Lab\P.05. PlayCatch\obj\Debug\net5.0\P.05. PlayCatch.pdb
+C:\Users\user\Documents\Програмиране\C# OOP\OOP - Exceptions and Error Handling-Lab\P.05. PlayCatch\obj\Debug\net5.0\P.05. PlayCatch.genruntimeconfig.cache
+C:\Users\user\Documents\Програмиране\C# OOP\OOP - Exceptions and Error Handling-Lab\P.05. PlayCatch\obj\Debug\net5.0\ref\P.05. PlayCatch.dll

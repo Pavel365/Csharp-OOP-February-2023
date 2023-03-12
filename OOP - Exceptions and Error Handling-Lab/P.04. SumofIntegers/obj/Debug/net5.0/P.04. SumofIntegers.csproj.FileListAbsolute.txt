@@ -1,0 +1,16 @@
+C:\Users\user\Documents\Програмиране\C# OOP\OOP - Exceptions and Error Handling-Lab\P.04. SumofIntegers\bin\Debug\net5.0\P.04. SumofIntegers.exe
+C:\Users\user\Documents\Програмиране\C# OOP\OOP - Exceptions and Error Handling-Lab\P.04. SumofIntegers\bin\Debug\net5.0\P.04. SumofIntegers.deps.json
+C:\Users\user\Documents\Програмиране\C# OOP\OOP - Exceptions and Error Handling-Lab\P.04. SumofIntegers\bin\Debug\net5.0\P.04. SumofIntegers.runtimeconfig.json
+C:\Users\user\Documents\Програмиране\C# OOP\OOP - Exceptions and Error Handling-Lab\P.04. SumofIntegers\bin\Debug\net5.0\P.04. SumofIntegers.runtimeconfig.dev.json
+C:\Users\user\Documents\Програмиране\C# OOP\OOP - Exceptions and Error Handling-Lab\P.04. SumofIntegers\bin\Debug\net5.0\P.04. SumofIntegers.dll
+C:\Users\user\Documents\Програмиране\C# OOP\OOP - Exceptions and Error Handling-Lab\P.04. SumofIntegers\bin\Debug\net5.0\P.04. SumofIntegers.pdb
+C:\Users\user\Documents\Програмиране\C# OOP\OOP - Exceptions and Error Handling-Lab\P.04. SumofIntegers\obj\Debug\net5.0\P.04. SumofIntegers.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Програмиране\C# OOP\OOP - Exceptions and Error Handling-Lab\P.04. SumofIntegers\obj\Debug\net5.0\P.04. SumofIntegers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Програмиране\C# OOP\OOP - Exceptions and Error Handling-Lab\P.04. SumofIntegers\obj\Debug\net5.0\P.04. SumofIntegers.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Програмиране\C# OOP\OOP - Exceptions and Error Handling-Lab\P.04. SumofIntegers\obj\Debug\net5.0\P.04. SumofIntegers.AssemblyInfo.cs
+C:\Users\user\Documents\Програмиране\C# OOP\OOP - Exceptions and Error Handling-Lab\P.04. SumofIntegers\obj\Debug\net5.0\P.04. SumofIntegers.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Програмиране\C# OOP\OOP - Exceptions and Error Handling-Lab\P.04. SumofIntegers\obj\Debug\net5.0\P.04. SumofIntegers.dll
+C:\Users\user\Documents\Програмиране\C# OOP\OOP - Exceptions and Error Handling-Lab\P.04. SumofIntegers\obj\Debug\net5.0\refint\P.04. SumofIntegers.dll
+C:\Users\user\Documents\Програмиране\C# OOP\OOP - Exceptions and Error Handling-Lab\P.04. SumofIntegers\obj\Debug\net5.0\P.04. SumofIntegers.pdb
+C:\Users\user\Documents\Програмиране\C# OOP\OOP - Exceptions and Error Handling-Lab\P.04. SumofIntegers\obj\Debug\net5.0\P.04. SumofIntegers.genruntimeconfig.cache
+C:\Users\user\Documents\Програмиране\C# OOP\OOP - Exceptions and Error Handling-Lab\P.04. SumofIntegers\obj\Debug\net5.0\ref\P.04. SumofIntegers.dll

@@ -1,0 +1,14 @@
+C:\Users\user\Documents\Програмиране\C# OOP\07. CSharp-OOP-SOLID-Lab-Skeleton_3.1\Lab-Skeleton\P04.Recharge\bin\Debug\netcoreapp3.1\P04.Recharge.exe
+C:\Users\user\Documents\Програмиране\C# OOP\07. CSharp-OOP-SOLID-Lab-Skeleton_3.1\Lab-Skeleton\P04.Recharge\bin\Debug\netcoreapp3.1\P04.Recharge.deps.json
+C:\Users\user\Documents\Програмиране\C# OOP\07. CSharp-OOP-SOLID-Lab-Skeleton_3.1\Lab-Skeleton\P04.Recharge\bin\Debug\netcoreapp3.1\P04.Recharge.runtimeconfig.json
+C:\Users\user\Documents\Програмиране\C# OOP\07. CSharp-OOP-SOLID-Lab-Skeleton_3.1\Lab-Skeleton\P04.Recharge\bin\Debug\netcoreapp3.1\P04.Recharge.runtimeconfig.dev.json
+C:\Users\user\Documents\Програмиране\C# OOP\07. CSharp-OOP-SOLID-Lab-Skeleton_3.1\Lab-Skeleton\P04.Recharge\bin\Debug\netcoreapp3.1\P04.Recharge.dll
+C:\Users\user\Documents\Програмиране\C# OOP\07. CSharp-OOP-SOLID-Lab-Skeleton_3.1\Lab-Skeleton\P04.Recharge\bin\Debug\netcoreapp3.1\P04.Recharge.pdb
+C:\Users\user\Documents\Програмиране\C# OOP\07. CSharp-OOP-SOLID-Lab-Skeleton_3.1\Lab-Skeleton\P04.Recharge\obj\Debug\netcoreapp3.1\P04.Recharge.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Програмиране\C# OOP\07. CSharp-OOP-SOLID-Lab-Skeleton_3.1\Lab-Skeleton\P04.Recharge\obj\Debug\netcoreapp3.1\P04.Recharge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Програмиране\C# OOP\07. CSharp-OOP-SOLID-Lab-Skeleton_3.1\Lab-Skeleton\P04.Recharge\obj\Debug\netcoreapp3.1\P04.Recharge.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Програмиране\C# OOP\07. CSharp-OOP-SOLID-Lab-Skeleton_3.1\Lab-Skeleton\P04.Recharge\obj\Debug\netcoreapp3.1\P04.Recharge.AssemblyInfo.cs
+C:\Users\user\Documents\Програмиране\C# OOP\07. CSharp-OOP-SOLID-Lab-Skeleton_3.1\Lab-Skeleton\P04.Recharge\obj\Debug\netcoreapp3.1\P04.Recharge.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Програмиране\C# OOP\07. CSharp-OOP-SOLID-Lab-Skeleton_3.1\Lab-Skeleton\P04.Recharge\obj\Debug\netcoreapp3.1\P04.Recharge.dll
+C:\Users\user\Documents\Програмиране\C# OOP\07. CSharp-OOP-SOLID-Lab-Skeleton_3.1\Lab-Skeleton\P04.Recharge\obj\Debug\netcoreapp3.1\P04.Recharge.pdb
+C:\Users\user\Documents\Програмиране\C# OOP\07. CSharp-OOP-SOLID-Lab-Skeleton_3.1\Lab-Skeleton\P04.Recharge\obj\Debug\netcoreapp3.1\P04.Recharge.genruntimeconfig.cache

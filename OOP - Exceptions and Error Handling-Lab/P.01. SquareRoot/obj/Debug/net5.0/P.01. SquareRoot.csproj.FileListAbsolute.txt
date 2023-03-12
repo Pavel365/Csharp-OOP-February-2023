@@ -1,0 +1,16 @@
+C:\Users\user\Documents\Програмиране\C# OOP\OOP - Exceptions and Error Handling-Lab\P.01. SquareRoot\bin\Debug\net5.0\P.01. SquareRoot.exe
+C:\Users\user\Documents\Програмиране\C# OOP\OOP - Exceptions and Error Handling-Lab\P.01. SquareRoot\bin\Debug\net5.0\P.01. SquareRoot.deps.json
+C:\Users\user\Documents\Програмиране\C# OOP\OOP - Exceptions and Error Handling-Lab\P.01. SquareRoot\bin\Debug\net5.0\P.01. SquareRoot.runtimeconfig.json
+C:\Users\user\Documents\Програмиране\C# OOP\OOP - Exceptions and Error Handling-Lab\P.01. SquareRoot\bin\Debug\net5.0\P.01. SquareRoot.runtimeconfig.dev.json
+C:\Users\user\Documents\Програмиране\C# OOP\OOP - Exceptions and Error Handling-Lab\P.01. SquareRoot\bin\Debug\net5.0\P.01. SquareRoot.dll
+C:\Users\user\Documents\Програмиране\C# OOP\OOP - Exceptions and Error Handling-Lab\P.01. SquareRoot\bin\Debug\net5.0\P.01. SquareRoot.pdb
+C:\Users\user\Documents\Програмиране\C# OOP\OOP - Exceptions and Error Handling-Lab\P.01. SquareRoot\obj\Debug\net5.0\P.01. SquareRoot.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Програмиране\C# OOP\OOP - Exceptions and Error Handling-Lab\P.01. SquareRoot\obj\Debug\net5.0\P.01. SquareRoot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Програмиране\C# OOP\OOP - Exceptions and Error Handling-Lab\P.01. SquareRoot\obj\Debug\net5.0\P.01. SquareRoot.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Програмиране\C# OOP\OOP - Exceptions and Error Handling-Lab\P.01. SquareRoot\obj\Debug\net5.0\P.01. SquareRoot.AssemblyInfo.cs
+C:\Users\user\Documents\Програмиране\C# OOP\OOP - Exceptions and Error Handling-Lab\P.01. SquareRoot\obj\Debug\net5.0\P.01. SquareRoot.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Програмиране\C# OOP\OOP - Exceptions and Error Handling-Lab\P.01. SquareRoot\obj\Debug\net5.0\P.01. SquareRoot.dll
+C:\Users\user\Documents\Програмиране\C# OOP\OOP - Exceptions and Error Handling-Lab\P.01. SquareRoot\obj\Debug\net5.0\refint\P.01. SquareRoot.dll
+C:\Users\user\Documents\Програмиране\C# OOP\OOP - Exceptions and Error Handling-Lab\P.01. SquareRoot\obj\Debug\net5.0\P.01. SquareRoot.pdb
+C:\Users\user\Documents\Програмиране\C# OOP\OOP - Exceptions and Error Handling-Lab\P.01. SquareRoot\obj\Debug\net5.0\P.01. SquareRoot.genruntimeconfig.cache
+C:\Users\user\Documents\Програмиране\C# OOP\OOP - Exceptions and Error Handling-Lab\P.01. SquareRoot\obj\Debug\net5.0\ref\P.01. SquareRoot.dll
